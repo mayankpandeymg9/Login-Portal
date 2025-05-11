@@ -88,8 +88,8 @@ loginstudent/
 
 ## 🙌 Credits
 
-- UI Design: [Your Name]
-- Background images: [Unsplash/Pexels or your source]
+- UI Design: Mayank Pandey
+- Background images: Personal
 - Icons: [Font Awesome](https://fontawesome.com/)
 
 ---
