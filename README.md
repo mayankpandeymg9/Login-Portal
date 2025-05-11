@@ -25,16 +25,16 @@ A modern, responsive student portal for student admission, form submission, and 
 ## 🚀 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page](/login.png)
 
 ### Dashboard / Home
-![Dashboard](screenshots/home.png)
+![Dashboard](/home.png)
 
 ### Stream Allocation
-![Stream Allocation](screenshots/stream.png)
+![Stream Allocation](/stream.png)
 
 ### Admission Form
-![Admission Form](screenshots/form.png)
+![Admission Form](/form.png)
 
 > _Place your screenshots in a `screenshots/` folder in the project root. Update the image paths if you use different names._
 
