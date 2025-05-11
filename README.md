@@ -36,7 +36,7 @@ A modern, responsive student portal for student admission, form submission, and 
 ### Admission Form
 ![Admission Form](/form.png)
 
-> _Place your screenshots in a `screenshots/` folder in the project root. Update the image paths if you use different names._
+
 
 ---
 
